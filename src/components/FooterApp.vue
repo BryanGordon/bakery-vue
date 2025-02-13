@@ -4,14 +4,26 @@
 
 <template>
   <footer>
-    <h4>Footer</h4>
+    <div>
+      <span class="span-footer">Copyright</span>
+      <a href="#">Inicio</a>
+    </div>
   </footer>
 </template>
 
 <style scoped>
   footer {
+    background-color: aquamarine;
+    padding-block: 15px;
     margin-top: auto;
-    text-align: center;
-    color: yellow;
+  }
+
+  div {
+    margin-inline: 20px;
+  }
+
+  a {
+    float: right;
+    text-decoration: none;
   }
 </style>

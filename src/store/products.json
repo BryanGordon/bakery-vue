@@ -1,0 +1,27 @@
+[
+  {
+    "image": "BrazoGitano.jpg",
+    "name_product": "Brazo gitano",
+    "product_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia nulla iste, pariatur laudantium, praesentium doloremque aspernatur itaque ex eaque exercitationem rem quis porro nemo sapiente iure illo possimus nostrum."
+  },
+  {
+    "image": "cupcakes.jpg",
+    "name_product": "Cupcakes",
+    "product_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia nulla iste, pariatur laudantium, praesentium doloremque aspernatur itaque ex eaque exercitationem rem quis porro nemo sapiente iure illo possimus nostrum."
+  },
+  {
+    "image": "galletas.jpg",
+    "name_product": "Galletas",
+    "product_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia nulla iste, pariatur laudantium, praesentium doloremque aspernatur itaque ex eaque exercitationem rem quis porro nemo sapiente iure illo possimus nostrum."
+  },
+  {
+    "image": "tarta.jpg",
+    "name_product": "Tarta",
+    "product_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia nulla iste, pariatur laudantium, praesentium doloremque aspernatur itaque ex eaque exercitationem rem quis porro nemo sapiente iure illo possimus nostrum."
+  },
+  {
+    "image": "mousse.jpg",
+    "name_product": "Mousse de fresa",
+    "product_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia nulla iste, pariatur laudantium, praesentium doloremque aspernatur itaque ex eaque exercitationem rem quis porro nemo sapiente iure illo possimus nostrum."
+  }
+]

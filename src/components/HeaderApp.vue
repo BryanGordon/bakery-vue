@@ -4,7 +4,7 @@
 
 <template>
 
-  <header>
+  <header id="inicio">
     <picture>
       <img :src=Logo alt="logo-image">
     </picture>
@@ -19,7 +19,7 @@
 
 <style scoped>
   header {
-    background-color: blueviolet;
+    background-color: #0D0D0D;
     padding-block: 32px;
     display: flex;
     flex-direction: column;
